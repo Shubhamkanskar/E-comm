@@ -37,7 +37,7 @@ The project is under active development, with continuous improvements and enhanc
 
 **Connect with Me:**
 
-Feel free to connect with me on [LinkedIn](#) for more insights into this project and other exciting developments in the world of web development.
+Feel free to connect with me on [https://www.linkedin.com/in/shubham-kanaskar-237280157/](#) for more insights into this project and other exciting developments in the world of web development.
 
 Let's build and innovate together! 🚀✨
 
