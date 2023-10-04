@@ -41,13 +41,9 @@ Feel free to connect with me on [LinkedIn](#) for more insights into this projec
 
 Let's build and innovate together! 🚀✨
 
+Dashboard
+![Forntpage](https://github.com/Shubhamkanskar/E-comm/assets/142893960/c8601838-06ba-4df4-8603-522bf7f4a3fa)
+Add to cart
+![cart apge](https://github.com/Shubhamkanskar/E-comm/assets/142893960/f4c08ce3-cf5f-49e9-8568-debc2e7a8629)
 
 
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
